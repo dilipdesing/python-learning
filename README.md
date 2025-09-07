@@ -1,15 +1,18 @@
     Logical Operators
     ===================
 
-    Used for combining conditional statements:
+Logical → and, or, not
 
-    and → returns True if both conditions are true
+Comparison → ==, !=, >, <, >=, <=
 
-    or → returns True if at least one condition is true
+Bitwise → &, |, ^, ~, <<, >>
 
-    not → reverses the boolean value
+Identity → is, is not
+
+Membership → in, not in
 
 
+############################################
 
     #print. the statemet: 
 
